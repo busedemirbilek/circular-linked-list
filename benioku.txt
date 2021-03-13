@@ -1,0 +1,6 @@
+farklı bilgisayarlarda test edilerek çalıştırılmıştır. Fakat program.exe dosyası çalıştırıldığında
+komut ekranı hemen açılıp kapanmaktadır. system("pause") komutu kullanılarakta düzeltilememiştir. Ek
+olarak neden kaynaklı olduğuda araştırmalar sonucu bulunamamıştır.
+
+Sizden ricamız src klasöründe bulunan main.cpp dosyasını editörünüzde çalıştırmanızdır. Bu editör seçimi
+Microsoft Visual Studio olması önerilmektedir.
